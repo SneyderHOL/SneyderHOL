@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SneyderHOL/SneyderHOL/blob/master/productivity-1995786_1920.jpg">
 
-[![SneyderHOL's github stats](https://github-readme-stats.vercel.app/api?username=SneyderHOL)](https://github.com/anuraghazra/github-readme-stats)
+[![SneyderHOL's github stats](https://github-readme-stats.vercel.app/api?username=SneyderHOL)](https://github.com/SneyderHOL)
 
 
 About me
