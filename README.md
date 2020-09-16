@@ -2,6 +2,7 @@
 
 <img src="https://github.com/SneyderHOL/SneyderHOL/blob/master/productivity-1995786_1920.jpg">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SneyderHOL&layout=compact&show_icons=true)](https://github.com/SneyderHOL)
 [![SneyderHOL's github stats](https://github-readme-stats.vercel.app/api?username=SneyderHOL)](https://github.com/SneyderHOL)
 
 
